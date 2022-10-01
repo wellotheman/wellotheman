@@ -3,7 +3,8 @@
 </div>
 
 ## ⭐ stuff about me
- 
+**note** so i have made 5 github accounts that why theres like no repos here
+
  Full-stack developer
  Currently learning C++
  
