@@ -1,16 +1,41 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**wellotheman/wellotheman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⭐ stuff about me
+ 
+ Full-stack developer
+ Currently learning C++
+ 
+## ⭐ tools and languages
 
-Here are some ideas to get you started:
+React, Electron, Python, HTML|CSS, Sass, Svelte, C++, Typescript, Javascript, C#, C(just a lil bit), NodeJS, MySQL, Postman, git(if i dont commit i will be afraid my code goes into the endless galaxy/blackhole)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ projects
+
+Discord Security (discontinued)
+This was because my friends always got hacked not only by cookie loggers but other methods! ?!?!?!?
+
+OnTheCloud
+I wanted to be able to share files (big files) without having to pay, so i made this. my friends always use it
+
+Office 365 Cracker xd (long-term)
+I didnt want to pay for office 365
+
+Atlas Client (wip)
+A discord client aimed to improve performance and allow customizing such as themes and plugins to Discord
+
+Face recognition AI
+I made face recognition ai because why not?
+
+Verifi (discord verification bot)
+Just a little side-project playing around with discordjs v14
+
+I forgot everything else :sob:
+
+## ⭐ what im doing
+
+Exploring cyber-security
+Doing TryHackme stuff when im free
+REALLY BORED so im trying to make a new project
+ 
